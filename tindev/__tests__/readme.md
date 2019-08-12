@@ -1,0 +1,1 @@
+ - To run android emulator: yarn react-native run-android
